@@ -84,6 +84,74 @@ Below is a sample execution of the script showing how it interacts with the user
 
 ![Script Demo](images/JPEGRename.png)
 
+## Learning Objectives
 
+This project helps beginners understand:
+
+* Reading user input (read)
+
+* Conditional statements (if, case)
+
+* Loops (while, for)
+
+* File creation and renaming
+
+* Input validation
+
+* Writing interactive scripts
+
+
+## Project Roadmap
+
+**✅ Milestone A (Current)**
+
+- Interactive file creation
+
+- Input validation
+
+- File renaming with prefix
+
+**🔜 Milestone B (Planned)**
+
+- Add logging to a separate log file
+
+- Each action logged with proper timestamps
+
+**🔜 Milestone C (Planned)**
+
+- Implement log rotation
+
+- If log file exceeds 2 MB, automatically create a new log file
+## Contributing
+
+This project is part of my learning journey, and **suggestions are highly encouraged!**
+
+If you have:
+
+- Improvement ideas
+
+- Best practices
+
+- Beginner-friendly optimizations
+
+Please feel free to:
+
+- Open an Issue
+
+- Submit a Pull Request
+
+- Share feedback
+
+
+
+## Authors
+**🧑‍💻 Shikha Singh**
+
+Learning Shell Scripting, one milestone at a time 🚀
+
+
+## Learning Journey
+
+This repository reflects my progress as I learn shell scripting. Each milestone represents a step forward in understanding real-world scripting concepts.
 
 
